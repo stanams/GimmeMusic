@@ -1,0 +1,30 @@
+{
+  "name": "gimmemusic",
+  "version": "1.0.0",
+  "description": "A bots that recommends music base on your input tastes or mood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanams/GimmeMusic.git"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "music",
+    "recommendation"
+  ],
+  "author": "Stanams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanams/GimmeMusic/issues"
+  },
+  "homepage": "https://github.com/stanams/GimmeMusic#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
